@@ -14,22 +14,24 @@
 
 - **Data Analysis**: Python, MS Excel, SQL, Power BI
 - **Web Development**: HTML, CSS, JavaScript
-- **Tools**: Git, GitHub, VS Code
+- **Tools**: Git, GitHub, VS Code, Pycharm, Jupyter Notebook
 
 # Projects
 
-Here are some of my notable projects:
+𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
 - [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)
 - A sales dashboard created using Google Sheets.
 - [Blinkit Clone Project](https://example.com/blinkit-clone-project)
 - A front-end clone of the Blinkit website using HTML and CSS.
 - [My Portfolio](https://github.com/Ranjan234/My_portfolio)
-- 
+- A portfolio website is designed to highlight my skills and projects.
+- It includes sections for my bio, skills, projects, and contact information.
+- Technologies Uses- HTML, CSS, JavaScript, Font Awesome.
 
 # Contact Me 📫
 
-Feel free to reach out to me via:
+𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
 
 - [LinkedIn](https://www.linkedin.com/in/soumya-ranjan-sahoo-0a1b432a9/)
 - [Twitter](https://x.com/soumya_ranjan26)
