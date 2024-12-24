@@ -35,6 +35,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/soumya-ranjan-sahoo-0a1b432a9/)
 - [Twitter](https://x.com/soumya_ranjan26)
+- [Github](https://github.com/Ranjan234?tab=repositories)
 - [Email](mailto:soumyaranjansahoo840@gmail.com)
 
 # GitHub Stats
@@ -42,5 +43,6 @@
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
 
 # Let's Connect!
-
+- [MavenAnalytics](https://app.mavenanalytics.io/portfolio)
+- [LearnMicroSoft](https://learn.microsoft.com/en-us/users/soumyaranjansahoo-2649/)
 I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
