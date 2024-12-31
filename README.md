@@ -2,21 +2,22 @@
 
 - Welcome to my GitHub profile! 👀I'm a passionate Data Analyst and Front-End Developer with a keen interest in data-driven decision making and creating interactive web applications.
 
-# About Me
-
+# About Me 📒
+- 🌍  I'm based in India, Odisha
+- ✉️  You can contact me at soumyanalyst323@gmail.com
 - 🎓 Bachelor's degree in Computer Applications (BCA)
 - 📊 Enthusiastic about Data Analytics, MS Excel, Python, SQL, and Power BI
-- 💻 Skilled in Front-End Development using HTML, CSS, and JavaScript
+- 👨🏻‍💻 Skilled in Front-End Development using HTML, CSS, and JavaScript
 - 🌱 Currently learning more about Gen AI and advanced data analytics techniques
   
 
-# My Skills
+# My Skills 🧠
 
 - **Data Analysis**: Python, MS Excel, SQL, Power BI
 - **Web Development**: HTML, CSS, JavaScript
 - **Tools**: Git, GitHub, VS Code, Pycharm, Jupyter Notebook
 
-# Projects
+# Projects 📽
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
@@ -28,7 +29,12 @@
 - A portfolio website is designed to highlight my skills and projects.
 - It includes sections for my bio, skills, projects, and contact information.
 - Technologies Uses- HTML, CSS, JavaScript, Font Awesome.
-
+- [Coffee Shop Sales Project](https://github.com/Ranjan234/CofeeShopsales)
+- A detailed sales analysis dashboard for my coffee shop created using Excel.
+- Transaction records for Maven Roasters, a fictitious coffee shop operating out
+- of three NYC locations. Dataset includes the transaction date,
+- timestamp and location, along with product-level details.
+  
 # Contact Me 📫
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
@@ -36,7 +42,7 @@
 - [LinkedIn](https://www.linkedin.com/in/soumya-ranjan-sahoo-0a1b432a9/)
 - [Twitter](https://x.com/soumya_ranjan26)
 - [Github](https://github.com/Ranjan234?tab=repositories)
-- [Email](mailto:soumyaranjansahoo840@gmail.com)
+- [Email](mailto:soumyanalyst323@gmail.com)
 
 # GitHub Stats
 
@@ -45,4 +51,6 @@
 # Let's Connect!
 - [MavenAnalytics](https://app.mavenanalytics.io/portfolio)
 - [LearnMicroSoft](https://learn.microsoft.com/en-us/users/soumyaranjansahoo-2649/)
-I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
+🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!😊
+
+
