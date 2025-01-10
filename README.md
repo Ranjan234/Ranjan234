@@ -49,6 +49,7 @@
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
 
 # Let's Connect!
+- [analystbuilder](https://www.analystbuilder.com/u/Soumya)
 - [MavenAnalytics](https://app.mavenanalytics.io/portfolio)
 - [LearnMicroSoft](https://learn.microsoft.com/en-us/users/soumyaranjansahoo-2649/)
 🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!😊
