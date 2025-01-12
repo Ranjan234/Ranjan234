@@ -22,9 +22,12 @@
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
 - [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)
-- A sales dashboard created using Google Sheets.
+- This project is a Google Sheet Dashboard that allows users to visualize and analyze data efficiently.
+- The dashboard leverages Google Sheets' capabilities to provide real-time data updates and interactive charts.
 - [Blinkit Clone Project](https://example.com/blinkit-clone-project)
-- A front-end clone of the Blinkit website using HTML and CSS.
+- This project is a clone of the Blinkit website, which is an online grocery delivery service.
+- The aim of this project is to replicate the user interface and some of the functionalities of the Blinkit website using HTML, CSS.
+- The project includes various sections such as product listings, categories, and useful links, just like Blinkit website.
 - [My Portfolio](https://github.com/Ranjan234/My_portfolio)
 - A portfolio website is designed to highlight my skills and projects.
 - It includes sections for my bio, skills, projects, and contact information.
@@ -34,7 +37,13 @@
 - Transaction records for Maven Roasters, a fictitious coffee shop operating out
 - of three NYC locations. Dataset includes the transaction date,
 - timestamp and location, along with product-level details.
-  
+- [Restaurant_Orders_Analysis](https://github.com/Ranjan234/Restaurant_Orders_Analysis)
+- This project is a guided analysis of restaurant orders data, provided by Maven Analytics.
+- The dataset includes a quarter's worth of orders from a fictitious restaurant serving international cuisine.
+- Each order contains the date and time of the order, the items ordered, and additional details on the type, name, and price of the items.
+- [CRM_Sales_Dashboard](https://github.com/Ranjan234/CRM-Sales-Dashboard)
+- The CRM_Sales_Dashboard is a tool designed to help sales teams manage and visualize their sales data using Google Sheets.
+- This dashboard provides an intuitive interface for tracking sales performance, analyzing key metrics, and generating reports.
 # Contact Me 📫
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
