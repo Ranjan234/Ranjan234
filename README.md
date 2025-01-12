@@ -23,7 +23,7 @@
 
 - [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf)
 - This project is a Google Sheet Dashboard that allows users to visualize and analyze data efficiently.
-- The dashboard leverages Google Sheets' capabilities to provide real-time data updates and interactive charts.
+- The dashboard leverages Google Sheets capabilities to provide real-time data updates and interactive charts.
 - [Blinkit Clone Project](https://example.com/blinkit-clone-project)
 - This project is a clone of the Blinkit website, which is an online grocery delivery service.
 - The aim of this project is to replicate the user interface and some of the functionalities of the Blinkit website using HTML, CSS.
