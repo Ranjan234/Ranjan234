@@ -44,6 +44,11 @@
 - [CRM_Sales_Dashboard](https://github.com/Ranjan234/CRM-Sales-Dashboard)
 - The CRM_Sales_Dashboard is a tool designed to help sales teams manage and visualize their sales data using Google Sheets.
 - This dashboard provides an intuitive interface for tracking sales performance, analyzing key metrics, and generating reports.
+- [Spotify Streaming History](https://github.com/Ranjan234/Spotify-Streaming-History)
+- This project was powered by Maven Analytics and is part of the Maven Music Challenge.
+- Spotify Sreaming History dashboard with Power BI.
+- It perfectly combines the power of data cleaning, manipulation, and visualization to create insightful and interactive reports that tell a unique story.
+-  Spotify user's complete music streaming history data, including timestamps, track, artist, and album names, and reasons for playing and ending each track.
 # Contact Me 📫
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
