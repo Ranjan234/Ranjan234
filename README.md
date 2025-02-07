@@ -71,6 +71,7 @@
 # Let's Connect!
 - [analystbuilder](https://www.analystbuilder.com/u/Soumya)
 - [MavenAnalytics](https://app.mavenanalytics.io/portfolio)
+- [LeetCode](https://leetcode.com/u/N8TvX6JJFa/)
 - [LearnMicroSoft](https://learn.microsoft.com/en-us/users/soumyaranjansahoo-2649/)
 🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!😊
 
