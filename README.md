@@ -93,7 +93,9 @@ Storytelling
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-ranjan-sahoo-0a1b432a9/)
-- [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twittter&logoColor=white)](https://x.com/soumya_ranjan26)
+- 
+- <!-- Twitter -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/soumya_ranjan26)
 - [![Github](https://img.shields.io/badge/Website-black?logo=github&logoColor=white)](https://github.com/Ranjan234?tab=repositories)
 - [![Email](https://img.shields.io/badge/Email-red?logo=email&logoColor=white)](mailto:soumyanalyst323@gmail.com)
 
