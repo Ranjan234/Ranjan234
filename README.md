@@ -91,6 +91,11 @@ Storytelling
 # Contact Me 📫
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
+[![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)](https://youtube.com/yourchannel)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Website](https://img.shields.io/badge/Website-black?logo=github&logoColor=white)](https://yourwebsite.com)
+[![Newsletter](https://img.shields.io/badge/Newsletter-orange?logo=mailchimp&logoColor=white)](https://newsletter.com)
+[![PayPal](https://img.shields.io/badge/PayPal-blue?logo=paypal&logoColor=white)](https://paypal.me/yourlink)
 
 - [LinkedIn](https://www.linkedin.com/in/soumya-ranjan-sahoo-0a1b432a9/)
 - [Twitter](https://x.com/soumya_ranjan26)
