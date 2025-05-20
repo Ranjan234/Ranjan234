@@ -92,22 +92,27 @@ Storytelling
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumya-ranjan-sahoo-0a1b432a9/)
-- 
-- <!-- Twitter -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/soumya_ranjan26)
+ <!-- LinkedIn -->
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soumyaranjansahoo0/)
+ <!-- Twitter -->
+- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/soumya_ranjan26)
+ <!--GitHub-->
 - [![Github](https://img.shields.io/badge/Website-black?logo=github&logoColor=white)](https://github.com/Ranjan234?tab=repositories)
-- [![Email](https://img.shields.io/badge/Email-red?logo=email&logoColor=white)](mailto:soumyanalyst323@gmail.com)
+ <!--Email-->
+- [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:soumyanalyst323@gmail.com)
 
 # GitHub Stats
 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
 
 # Let's Connect!
-- [analystbuilder](https://www.analystbuilder.com/u/Soumya)
-- [MavenAnalytics](https://app.mavenanalytics.io/portfolio)
-- [LeetCode](https://leetcode.com/u/N8TvX6JJFa/)
-- [LearnMicroSoft](https://learn.microsoft.com/en-us/users/soumyaranjansahoo-2649/)
+<!-- AnalystBuilder -->
+- [![AnalystBuilder](https://img.shields.io/badge/AnalystBuilder-0057B8?style=for-the-badge)](https://www.analystbuilder.com/u/Soumya)
+<!-- Maven Analytics -->
+- [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-1C1C1C?logo=data:image/svg+xml;base64,...&logoColor=white&style=for-the-badge)](https://app.mavenanalytics.io/portfolio)
+<!-- LeetCode -->
+- [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
+
 🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!😊
 
 
