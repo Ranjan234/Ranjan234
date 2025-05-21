@@ -123,9 +123,9 @@ Let's Connect!
 <!-- LeetCode -->
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
 
-🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
-<h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+🚀I'm always open to collaborating on interesting projects and learning new things✨.
+<h3 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
    Let's connect and create something amazing together!
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J6eTRkN2ppdjByODRpeHRqeWFwaWFpa3Bxa3owZWUwY2hocnMwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" height="30" style="vertical-align:middle;"/>
-</h1>
+</h3>
 
