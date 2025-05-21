@@ -91,7 +91,8 @@ Storytelling
 # Contact Me 📫
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
-
+<i class="fab fa-linkedin"></i>
+<i class="fab fa-twitter"></i>
  <!-- LinkedIn -->
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soumyaranjansahoo0/)
  <!-- Twitter -->
