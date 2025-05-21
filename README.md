@@ -34,7 +34,7 @@ Storytelling
   
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
 Projects
-  <img src="https://i.gifer.com/SX9Z.gif" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://i.gifer.com/SX9Z.gif" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
 
@@ -82,8 +82,8 @@ Projects
    
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
  Certifications 
-  <img src="![image](https://github.com/user-attachments/assets/e92facd3-d92e-4ffe-8aef-f967fe9076d9)
-" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="![image](https://github.com/user-attachments/assets/b0faaaa4-d473-410b-8b06-a59da42588b8)
+" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
 
