@@ -1,4 +1,4 @@
-![waving hand](<img src="https://example.com/path/to/wave.png" style="display:inline-block; transform:translateY(-5px); width:40px; height:40px;" alt="Wave">) # Hello, I'm Soumya Ranjan Sahoo!
+👋 # Hello, I'm Soumya Ranjan Sahoo!
 
 - Welcome to my GitHub profile! 👀
 - Enthusiastic and self-motivated entry-level Data Analyst with strong skills in Python, SQL, Excel, Power BI and Tableau. Currently pursuing a 
