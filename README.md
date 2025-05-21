@@ -6,7 +6,7 @@
 
 
 
-- Welcome to my GitHub profile! 👀
+- Welcome to my GitHub profile! <span style="font-size: 48px; vertical-align: middle;">👀</span>
 - Enthusiastic and self-motivated entry-level Data Analyst with strong skills in Python, SQL, Excel, Power BI and Tableau. Currently pursuing a 
 Bachelor’s degree in Computer Applications. Adept at data cleaning, exploratory data analysis, and dashboard creation, with hands-on experience 
 in real-world data projects. Quick learner with strong analytical and problem-solving skills, eager to contribute to data-driven decision-making in a 
