@@ -1,7 +1,7 @@
-<h2 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+<h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
   Hello, I'm Soumya Ranjan Sahoo!
   <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Hand gesture" width="40" height="40" style="vertical-align:middle;"/>
-</h2>
+</h1>
 
 
 - Welcome to my GitHub profile! <span style="font-size: 48px; vertical-align: middle;">👀</span>
@@ -110,10 +110,11 @@ Storytelling
 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
 
- <h3 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+ <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
 Let's Connect!
   <img src="https://cdn.dribbble.com/userupload/24054165/file/original-a30ec18e4dff6157a43ebf2731dd3cbf.gif" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
-</h3>
+</h1>
+
 
 <!-- AnalystBuilder -->
 - [![AnalystBuilder](https://img.shields.io/badge/AnalystBuilder-0057B8?style=for-the-badge)](https://www.analystbuilder.com/u/Soumya)
