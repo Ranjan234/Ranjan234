@@ -2,7 +2,10 @@
      alt="Hand gesture"
      width="40"
      height="40"
-     style="display: block; margin-bottom: 10px;" />  **Hello, I'm Soumya Ranjan Sahoo!**
+     style="display: block; margin-bottom: 10px;" />  <h2 style="font-size:2.2em; font-weight:bold; margin-bottom: 0.5em;">
+  Hello, I'm Soumya Ranjan Sahoo!
+</h2>
+
 
 
 - Welcome to my GitHub profile! 👀
