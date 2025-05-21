@@ -1,6 +1,6 @@
 <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
   Hello, I'm Soumya Ranjan Sahoo!
-  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Hand gesture" width="40" height="40" style="vertical-align:middle;"/>
+  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" style="vertical-align:middle;"/>
 </h1>
 
 
@@ -10,7 +10,11 @@ Bachelor’s degree in Computer Applications. Adept at data cleaning, explorator
 in real-world data projects. Quick learner with strong analytical and problem-solving skills, eager to contribute to data-driven decision-making in a 
 dynamic organization.
 
-# About Me 📒
+<h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+About Me 
+  <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-36-234_512.gif"  width="30" height="30" style="vertical-align:middle;"/>
+</h1>
+
 - 🌍  I'm based in India, Odisha
 - ✉️  You can contact me at soumyanalyst323@gmail.com
 - 🎓 Bachelor's degree in Computer Applications (BCA)
@@ -34,7 +38,7 @@ Storytelling
   
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
 Projects
-  <img src="https://i.gifer.com/SX9Z.gif" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
 
