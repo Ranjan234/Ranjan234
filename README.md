@@ -1,9 +1,7 @@
- <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966"
-     alt="Hand gesture"
-     width="40"
-     height="40"
-     style="display: block; margin-bottom: 0px;" /> <h1> Hello, I'm Soumya Ranjan Sahoo! </h1>
-
+<h2 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+  Hello, I'm Soumya Ranjan Sahoo!
+  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="Hand gesture" width="40" height="40" style="vertical-align:middle;"/>
+</h2>
 
 
 - Welcome to my GitHub profile! <span style="font-size: 48px; vertical-align: middle;">👀</span>
