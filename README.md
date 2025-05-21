@@ -4,7 +4,7 @@
      alt="Hand gesture"
      width="40"
      height="40"
-     style="display: block; margin-bottom: 0px;" />  <h1> Hello, I'm Soumya Ranjan Sahoo! </h1>
+     style="display: block; margin-bottom: 5px;" />  <h1> Hello, I'm Soumya Ranjan Sahoo! </h1>
 
 
 
