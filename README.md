@@ -100,9 +100,13 @@ Projects
  
 ➡️ [Power Query, Power Pivot](https://certificates.mavenanalytics.io/d28d83c0-b7c9-4b0f-8eae-48ab8c8a5b8b) | (Maven Analytics)  
 
- - Automated reporting and data transactions for Excel-based analysis. 
- 
-# Contact Me 📫
+ - Automated reporting and data transactions for Excel-based analysis.
+   
+  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+Contact Me
+  <img src="https://cdn.dribbble.com/userupload/20154102/file/original-4647ef34eae474962d23a369768e3670.gif" width="30" height="30" style="vertical-align:middle;"/>
+</h1>
+
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
 <i class="fab fa-linkedin"></i>
@@ -129,7 +133,7 @@ Let's Connect!
 <!-- AnalystBuilder -->
 - [![AnalystBuilder](https://img.shields.io/badge/AnalystBuilder-0057B8?style=for-the-badge)](https://www.analystbuilder.com/u/Soumya)
 <!-- Maven Analytics -->
-- [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-1C1C1C?logo=data:image/svg+xml;base64,...&logoColor=white&style=for-the-badge)](https://app.mavenanalytics.io/portfolio)
+- [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-1C1C1C?logo=data:image/svg+xml;base64,...&logoColor=green&style=for-the-badge)](https://app.mavenanalytics.io/portfolio)
 <!-- LeetCode -->
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
 
