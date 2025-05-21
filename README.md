@@ -1,4 +1,4 @@
-👋 ##Hello, I'm Soumya Ranjan Sahoo!
+##Hello, I'm Soumya Ranjan Sahoo!👋
 
 - Welcome to my GitHub profile! 👀
 - Enthusiastic and self-motivated entry-level Data Analyst with strong skills in Python, SQL, Excel, Power BI and Tableau. Currently pursuing a 
