@@ -79,8 +79,13 @@ Projects
  - Spotify Sreaming History dashboard with Power BI.
  - It perfectly combines the power of data cleaning, manipulation, and visualization to create insightful and interactive reports that tell a unique story.
  - Spotify user's complete music streaming history data, including timestamps, track, artist, and album names, and reasons for playing and ending each track.
+   
+ <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+ Certifications 
+  <img src="![image](https://github.com/user-attachments/assets/e92facd3-d92e-4ffe-8aef-f967fe9076d9)
+" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
+</h1>
 
-# Certifications 📋
 
 ➡️ [My SQL Data Analysis](https://certificates.mavenanalytics.io/d28d83c0-b7c9-4b0f-8eae-48ab8c8a5b8b#acc.bg3ucdDo) | Maven Analytics)
 
