@@ -82,8 +82,7 @@ Projects
    
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
  Certifications 
-  <img src="![image](https://github.com/user-attachments/assets/b0faaaa4-d473-410b-8b06-a59da42588b8)
-" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzlycGd2b2hoNTgyM3NoN3F0bzBnNjJsb29laGhveWlrZWtocWh2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lfZahQ89QU3ruLvjL1/giphy.gif" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
 
