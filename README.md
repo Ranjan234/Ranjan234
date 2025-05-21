@@ -30,9 +30,13 @@ My Skills
 - **Platforms/Tools**: Jupyter Notebook, PyCharm, Visual Studio, Git, PowerPoint
 - **Other**: Data Cleaning, Data Validation, Power Query and Power Pivot, Exploratory Data Analysis (EDA), Report Automation, Data 
 Storytelling 
-- **Soft Skills**: Analytical Thinking, Collaboration, Time Management, Communication 
+- **Soft Skills**: Analytical Thinking, Collaboration, Time Management, Communication
+  
+ <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+Projects
+  <img src="https://i.gifer.com/SX9Z.gif" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
+</h1>
 
-# Projects 📽
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
