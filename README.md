@@ -1,4 +1,4 @@
-# Hello, I'm Soumya Ranjan Sahoo! ![image](<img src="assets/wave.gif" width="30" style="vertical-align:middle" alt="waving hand"/>)
+# Hello, I'm Soumya Ranjan Sahoo! ![waving hand](assets/wave.gif)
 
 - Welcome to my GitHub profile! 👀
 - Enthusiastic and self-motivated entry-level Data Analyst with strong skills in Python, SQL, Excel, Power BI and Tableau. Currently pursuing a 
