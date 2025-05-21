@@ -125,7 +125,7 @@ Let's Connect!
 
 🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
 <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J6eTRkN2ppdjByODRpeHRqeWFwaWFpa3Bxa3owZWUwY2hocnMwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif
-" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
+   Let's connect and create something amazing together!
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J6eTRkN2ppdjByODRpeHRqeWFwaWFpa3Bxa3owZWUwY2hocnMwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
