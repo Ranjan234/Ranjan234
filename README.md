@@ -38,7 +38,7 @@ Storytelling
   
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
 Projects
-  <img src="https://cdn.dribbble.com/userupload/19883639/file/original-91529faea4dd975dd6351a3f147d67c0.gif" width="30" height="30" style="vertical-align:middle;"/>
+  <img src="https://cdn.dribbble.com/userupload/19883639/file/original-91529faea4dd975dd6351a3f147d67c0.gif" width="150" height="100" style="vertical-align:middle;"/>
 </h1>
 
 
