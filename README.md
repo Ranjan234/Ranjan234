@@ -45,7 +45,7 @@ Projects
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
 ➡️ [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf) | Dec 2024  
-  <img src="https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Screenshot%202025-01-23%20161227.png"  width="350" height="200" style="vertical-align:middle;"/>
+  <img src="https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Screenshot%202025-01-23%20161227.png"  width="500" height="350" style="vertical-align:middle;"/>
  - This project is a Google Sheet Dashboard that allows users to visualize and analyze data efficiently.
  - The dashboard leverages Google Sheets capabilities to provide real-time data updates and interactive charts.
   
