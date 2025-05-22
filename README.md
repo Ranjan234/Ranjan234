@@ -123,7 +123,7 @@ Contact Me
  <!--Email-->
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:soumyanalyst323@gmail.com)
 <!--Resume -->
-- [![Resume](https://img.shields.io/badge/Resume-1DA1F2?logo=resume&logoColor=blue&style=for-the-badge)](https://github.com/Ranjan234/Ranjan234/blob/main/Soumya.doc)
+- [![Resume](https://img.shields.io/badge/Resume-1DA1F2?logo=resume&logoColor=blue&style=for-the-badge)](https://github.com/Ranjan234/Ranjan234/blob/main/Soumyaranjansahoo_CV.pdf)
   
 # GitHub Stats
 
