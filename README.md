@@ -113,8 +113,7 @@ Contact Me
 
 
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
-<i class="fab fa-linkedin"></i>
-<i class="fab fa-twitter"></i>
+
  <!-- LinkedIn -->
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soumyaranjansahoo0/)
  <!-- Twitter -->
@@ -123,7 +122,9 @@ Contact Me
 - [![Github](https://img.shields.io/badge/Website-black?logo=github&logoColor=white)](https://github.com/Ranjan234?tab=repositories)
  <!--Email-->
 - [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:soumyanalyst323@gmail.com)
-
+<!--Resume -->
+- [![Resume](https://img.shields.io/badge/Resume-1DA1F2?logo=resume&logoColor=blue&style=for-the-badge)](file:///D:/RESUME%20FILE/Soumyaranjansahoo_CV.pdf)
+  
 # GitHub Stats
 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
