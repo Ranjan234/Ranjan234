@@ -45,40 +45,43 @@ Projects
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
 ➡️ [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf) | Dec 2024  
-  <img src="https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Screenshot%202025-01-23%20161227.png"  width="600" height="350" style="vertical-align:middle;"/>
+  <img src="https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Screenshot%202025-01-23%20161227.png"  width="600" height="300" style="vertical-align:middle;"/>
  - This project is a Google Sheet Dashboard that allows users to visualize and analyze data efficiently.
  - The dashboard leverages Google Sheets capabilities to provide real-time data updates and interactive charts.
   
-➡️ [Blinkit Clone Project](https://example.com/blinkit-clone-project) | Mar 2025
+➡️ [Drugs SideEffect And MedicalCondition](https://github.com/Ranjan234/Drugs_SideEffect_And_MedicalCondition) | Mar 2025
+  <img src="https://github.com/Ranjan234/Drugs_SideEffect_And_MedicalCondition/blob/main/Image%20/Correlation%20Matrix.png"  width="600" height="300" style="vertical-align:middle;"/>
 
- - This project is a clone of the Blinkit website, which is an online grocery delivery service.
- - The aim of this project is to replicate the user interface and some of the functionalities of the Blinkit website using HTML, CSS.
- - The project includes various sections such as product listings, categories, and useful links, just like Blinkit website.
+ - This project is an exploratory data analysis (EDA) on drugs, their side effects, and the medical conditions they treat.
+ - The goal is to analyze the relationships between drugs, their side effects, and the medical conditions they are used to treat, as well as to explore the ratings and 
+    reviews of these drugs.
   
 ➡️ [EV Sales Analysis in India](https://github.com/Ranjan234/EV-Sales-Analysis-in-India) | Mar 2025   
+ <img src="https://github.com/Ranjan234/EV-Sales-Analysis-in-India/blob/main/Images/Yearly%20Analysis%20of%20EV%20Sales%20in%20India.png"  width="600" height="300" style="vertical-align:middle;"/>
 
  - Analyzed electric vehicle sales data across Indian states using Python, Pandas, and Seaborn. 
  - Conducted exploratory data analysis to identify top-selling vehicle types and state-wise adoption rates.
   
 ➡️ [Coffee Shop Sales Project](https://github.com/Ranjan234/CofeeShopsales) | Dec 2024
+  <img src="https://github.com/Ranjan234/CofeeShopsales/blob/main/Screenshot%202024-12-26%20093142.png"  width="600" height="300" style="vertical-align:middle;"/>
 
  - A detailed sales analysis dashboard for my coffee shop created using Excel.
  - Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, 
    along with product-level details.
   
 ➡️ [Restaurant_Orders_Analysis](https://github.com/Ranjan234/Restaurant_Orders_Analysis)  | Jan 2025    
-
+   <img src="https://github.com/Ranjan234/Restaurant_Orders_Analysis/blob/main/Screenshot%202025-01-23%20111046.png"  width="550" height="250" style="vertical-align:middle;"/>
  - This project is a guided analysis of restaurant orders data, provided by Maven Analytics.
  - The dataset includes a quarter's worth of orders from a fictitious restaurant serving international cuisine.
  - Each order contains the date and time of the order, the items ordered, and additional details on the type, name, and price of the items.
   
 ➡️ [CRM_Sales_Dashboard](https://github.com/Ranjan234/CRM-Sales-Dashboard) | Jan 2025
-
+   <img src="https://github.com/Ranjan234/CRM-Sales-Dashboard/blob/main/Screenshot%202025-05-21%20085837.png"  width="550" height="250" style="vertical-align:middle;"/>
  - The CRM_Sales_Dashboard is a tool designed to help sales teams manage and visualize their sales data using Google Sheets.
  - This dashboard provides an intuitive interface for tracking sales performance, analyzing key metrics, and generating reports.
   
 ➡️ [Spotify Streaming History](https://github.com/Ranjan234/Spotify-Streaming-History) | Mar 2025
-
+<img src="https://github.com/Ranjan234/Spotify-Streaming-History/blob/main/Screenshot%202025-01-18%20151152.png"  width="600" height="300" style="vertical-align:middle;"/>
  - This project was powered by Maven Analytics and is part of the Maven Music Challenge.
  - Spotify Sreaming History dashboard with Power BI.
  - It perfectly combines the power of data cleaning, manipulation, and visualization to create insightful and interactive reports that tell a unique story.
