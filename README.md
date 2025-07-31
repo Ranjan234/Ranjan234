@@ -117,7 +117,15 @@ Projects
  
 ➡️ [Microsoft Excel Beginner to Advanced](https://www.udemy.com/certificate/UC-f1db7721-c5c7-42f5-9823-bc142207f368/) | (Udemy)
 
- - Built dynamic dashboards, used VLOOKUP, Pivot Tables, and automation tools. 
+ - Built dynamic dashboards, used VLOOKUP, Pivot Tables, and automation tools.
+   
+➡️ [Data Visualisation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_GSdqKD6MuGsjCqBHM_1750218409673_completion_certificate.pdf) | (TATA)  
+
+ -  Created visuals for data analysis to help executives with effectivedecision- making.
+
+➡️ [Data Analytics Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_GSdqKD6MuGsjCqBHM_1750091644476_completion_certificate.pdf) | (Deloitte)  
+
+ -   Used Excel to classify data and draw business conclusions.
  
 ➡️ [Python Foundations for Data Analysis](https://certificates.mavenanalytics.io/255f3661-521f-405e-b770-bd2de944703e) | (Maven Analytics) 
 
