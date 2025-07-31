@@ -81,13 +81,20 @@ Projects
  - This project is a guided analysis of restaurant orders data, provided by Maven Analytics.
  - The dataset includes a quarter's worth of orders from a fictitious restaurant serving international cuisine.
  - Each order contains the date and time of the order, the items ordered, and additional details on the type, name, and price of the items.
-  
-➡️ [CRM_Sales_Dashboard](https://github.com/Ranjan234/CRM-Sales-Dashboard) | Jan 2025
-
-   <img src="https://github.com/Ranjan234/CRM-Sales-Dashboard/blob/main/Screenshot%202025-05-21%20085837.png"  width="550" height="250" style="vertical-align:middle;"/>
    
- - The CRM_Sales_Dashboard is a tool designed to help sales teams manage and visualize their sales data using Google Sheets.
- - This dashboard provides an intuitive interface for tracking sales performance, analyzing key metrics, and generating reports.
+ ➡️ [PhonePe-Data_Analysis]() | Jun 2025
+
+  <img src="https://github.com/Ranjan234/PhonePe-Data_Analysis/blob/main/Screenshot%202025-06-13%20222405.png"  width="550" height="250" style="vertical-align:middle;"/>
+
+  - PhonePe Data Analysis Using Power BI.
+  - The line chart shows a sharp, consistent rise in transaction amounts from 2018 to 2022, underlining the rapid growth of digital payments.
+  
+ ➡️ [Bank-Customer-Data-Prep](https://github.com/Ranjan234/Bank-Customer-Data-Prep_) | July 2025
+  
+   <img src="https://github.com/Ranjan234/Bank-Customer-Data-Prep/blob/main/download%20(6).png"  width="550" height="250" style="vertical-align:middle;"/>
+   
+ - Clean and explore bank customer data to prepare it for machine learning models
+ - You've been asked to prepare and explore a set of customer data that will be used for two machine learning projects: churn prediction & customer segmentation.
   
 ➡️ [Spotify Streaming History](https://github.com/Ranjan234/Spotify-Streaming-History) | Mar 2025
 
