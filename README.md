@@ -21,7 +21,8 @@ About Me
 - 📊 Enthusiastic about Data Analytics, MS Excel, Python, SQL, and Power BI
 - 👨🏻‍💻 Skilled in Front-End Development using HTML, CSS, and JavaScript
 - 🌱 Currently learning more about Gen AI and advanced data analytics techniques
-   <img src="https://camo.githubusercontent.com/80790b1465d51a02453bb5551c9ef76faf52dcdf48804221641749e4c1cec986/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966" width="100" height="200" style="vertical-align➡️;"/>
+  
+   <img src="https://camo.githubusercontent.com/80790b1465d51a02453bb5551c9ef76faf52dcdf48804221641749e4c1cec986/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966" width="300" height="400" style="vertical-align➡️;"/>
 
   
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
