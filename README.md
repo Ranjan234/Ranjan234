@@ -15,6 +15,8 @@ About Me
   <img src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-36-234_512.gif"  width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
+ <img src="https://camo.githubusercontent.com/80790b1465d51a02453bb5551c9ef76faf52dcdf48804221641749e4c1cec986/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966" width="250" height="300" align ="right"/>
+ 
 - 🌍  I'm based in India, Odisha
 - ✉️  You can contact me at soumyanalyst323@gmail.com
 - 🎓 Bachelor's degree in Computer Applications (BCA)
@@ -22,10 +24,7 @@ About Me
 - 👨🏻‍💻 Skilled in Front-End Development using HTML, CSS, and JavaScript
 - 🌱 Currently learning more about Gen AI and advanced data analytics techniques
   
-   <img src="https://camo.githubusercontent.com/80790b1465d51a02453bb5551c9ef76faf52dcdf48804221641749e4c1cec986/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966" width="250" height="300" align ="right"/>
 
-
-  
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
 My Skills
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF1aHZjcHlkYXBtNGd2Y2ZoaWNkNDJ6bDltYTNoZzJnMTk3MG56MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XJGutt8ej8SYIwWxcz/giphy.gif" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
