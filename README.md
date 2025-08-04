@@ -16,6 +16,7 @@ About Me
 </h1>
 
  <img src="https://camo.githubusercontent.com/80790b1465d51a02453bb5551c9ef76faf52dcdf48804221641749e4c1cec986/68747470733a2f2f6d656469612e74656e6f722e636f6d2f436967707a6170656d736f41414141692f68692d726f626f742e676966" width="250" height="300" align ="right"/>
+
  
 - 🌍  I'm based in India, Odisha
 - ✉️  You can contact me at soumyanalyst323@gmail.com
