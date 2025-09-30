@@ -178,7 +178,8 @@ Let's Connect!
 <!-- InterviewBit -->
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit-FFA116?logo=InterviewBit&logoColor=sky&style=for-the-badge)](https://www.interviewbit.com/profile/soumya-ranjan-sahoo_575/)
 <!-- Hackerrank -->
-- [![Hackerrank](https://img.shields.io/badge/Hackerrank-FFA116?logo=Hackerrank&logoColor=sky&style=for-the-badge)](https://www.hackerrank.com/profile/soumyaranjansa35)
+- [![HackerRank Score](https://img.shields.io/badge/HackerRank%20Score-12345-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/soumyaranjansa35)
+
   
 <h4 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
   🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
