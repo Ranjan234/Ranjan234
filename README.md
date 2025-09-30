@@ -151,7 +151,7 @@ Contact Me
  <!-- LinkedIn -->
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyaranjansahoo0/)
  <!-- Twitter -->
-- [![Twitter](https://img.shields.io/badge/Twitter-@https://x.com/soumya_ranjan26-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soumya_ranjan26)
+- [![Twitter](https://img.shields.io/badge/Twitter-Connect-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soumya_ranjan26)
  <!--GitHub-->
 - [![Github](https://img.shields.io/badge/Website-black?logo=github&logoColor=white)](https://github.com/Ranjan234?tab=repositories)
  <!--Email-->
@@ -172,7 +172,7 @@ Let's Connect!
 <!-- AnalystBuilder -->
 - [![AnalystBuilder](https://img.shields.io/badge/AnalystBuilder-0057B8?style=for-the-badge)](https://www.analystbuilder.com/u/Soumya)
 <!-- Maven Analytics -->
-- [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-1C1C1C?logo=data:image/svg+xml;base64,...&logoColor=green&style=for-the-badge)](https://app.mavenanalytics.io/portfolio)
+- [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-Profile-0A66C2?style=for-the-badge&logo=tableau&logoColor=white)](https://app.mavenanalytics.io/portfolio)
 <!-- LeetCode -->
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
 <!-- InterviewBit -->
