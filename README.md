@@ -177,6 +177,8 @@ Let's Connect!
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
 <!-- InterviewBit -->
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit-FFA116?logo=InterviewBit&logoColor=sky&style=for-the-badge)](https://www.interviewbit.com/profile/soumya-ranjan-sahoo_575/)
+<!-- Hackerrank -->
+- [![Hackerrank](https://img.shields.io/badge/Hackerrank-FFA116?logo=Hackerrank&logoColor=sky&style=for-the-badge)](https://www.hackerrank.com/profile/soumyaranjansa35)
   
 <h4 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
   🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
