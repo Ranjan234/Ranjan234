@@ -149,9 +149,9 @@ Contact Me
 𝑭𝒆𝒆𝒍 𝒇𝒓𝒆𝒆 𝒕𝒐 𝒓𝒆𝒂𝒄𝒉 𝒐𝒖𝒕 𝒕𝒐 𝒎𝒆 𝒗𝒊𝒂:
 
  <!-- LinkedIn -->
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/soumyaranjansahoo0/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/soumyaranjansahoo0/)
  <!-- Twitter -->
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/soumya_ranjan26)
+- [![Twitter](https://img.shields.io/badge/Twitter-@https://x.com/soumya_ranjan26-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/soumya_ranjan26)
  <!--GitHub-->
 - [![Github](https://img.shields.io/badge/Website-black?logo=github&logoColor=white)](https://github.com/Ranjan234?tab=repositories)
  <!--Email-->
