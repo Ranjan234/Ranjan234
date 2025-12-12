@@ -164,6 +164,7 @@ Contact Me
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
 
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
+   
 Let's Connect!
   <img src="https://cdn.dribbble.com/userupload/24054165/file/original-a30ec18e4dff6157a43ebf2731dd3cbf.gif" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
