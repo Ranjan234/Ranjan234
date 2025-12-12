@@ -32,7 +32,7 @@ My Skills
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWF1aHZjcHlkYXBtNGd2Y2ZoaWNkNDJ6bDltYTNoZzJnMTk3MG56MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XJGutt8ej8SYIwWxcz/giphy.gif" alt="Hand gesture" width="30" height="30" style="vertical-align:middle;"/>
 </h1>
 
-- **Programming & Querying**: SQL, Python, Java, JavaScript 
+- **Programming & Querying**: SQL, Python
 - **Data Visualization**: Excel, Power BI, Tableau, Google Sheets 
 - **Databases**: MySQL, PostgreSQL, SQL Server
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn 
@@ -162,6 +162,7 @@ Contact Me
 # GitHub Stats
 
 ![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ranjan234&show_icons=true&theme=radical)
+
 
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
    
