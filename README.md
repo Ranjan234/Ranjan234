@@ -21,8 +21,7 @@ About Me
 - 🌍  I'm based in India, Odisha
 - ✉️  You can contact me at soumyanalyst323@gmail.com
 - 🎓 Bachelor's degree in Computer Applications (BCA)
-- 📊 Enthusiastic about Data Analytics, MS Excel, Python, SQL, and Power BI
-- 👨🏻‍💻 Skilled in Front-End Development using HTML, CSS, and JavaScript
+- 📊 Enthusiastic about Data Analytics, Data Scientist, AND ML/ AI
 - 🌱 Currently learning more about Gen AI and advanced data analytics techniques
   
 
