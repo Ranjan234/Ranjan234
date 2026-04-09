@@ -48,6 +48,19 @@ Projects
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
+⭐ [Netflix Dataset Analysis - EDA](https://github.com/Ranjan234/netflix-eda) | Apr 2026  
+
+  **Exploratory Data Analysis of Netflix Content Library**
+  
+  - Comprehensive statistical analysis of Netflix's 8,804 titles using Python & SQL
+  - Executed 8 advanced SQL queries analyzing content distribution, geographic trends, temporal patterns, and ratings
+  - **Key Findings**: USA dominates (32%), 69.62% movies vs 30.38% TV shows, 2017-2020 aggressive expansion (+6,832 titles), 75%+ mature audiences (TV-14+)
+  - Data cleaning: Removed 3 null values, validated 99.96% data integrity across 123 countries
+  - **Deliverables**: 16-slide PowerPoint presentation, comprehensive Word report, SQL query bank, Jupyter notebooks
+  - Identified strategic insights: Drama-centric content (27.6%), international focus (46.5%), diversified creator ecosystem (risk mitigation)
+
+
+
 ➡️ [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf) | Dec 2024  
 
   <img src="https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Screenshot%202025-01-23%20161227.png"  width="600" height="300" style="vertical-align:middle;"/>
@@ -100,14 +113,6 @@ Projects
  - Clean and explore bank customer data to prepare it for machine learning models
  - You've been asked to prepare and explore a set of customer data that will be used for two machine learning projects: churn prediction & customer segmentation.
   
-➡️ [Spotify Streaming History](https://github.com/Ranjan234/Spotify-Streaming-History) | Mar 2025
-
-<img src="https://github.com/Ranjan234/Spotify-Streaming-History/blob/main/Screenshot%202025-01-18%20151152.png"  width="600" height="300" style="vertical-align:middle;"/>
-
- - This project was powered by Maven Analytics and is part of the Maven Music Challenge.
- - Spotify Sreaming History dashboard with Power BI.
- - It perfectly combines the power of data cleaning, manipulation, and visualization to create insightful and interactive reports that tell a unique story.
- - Spotify user's complete music streaming history data, including timestamps, track, artist, and album names, and reasons for playing and ending each track.
    
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
  Certifications 
