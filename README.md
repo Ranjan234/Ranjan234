@@ -48,7 +48,7 @@ Projects
 
 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗼𝗳 𝗺𝘆 𝗻𝗼𝘁𝗮𝗯𝗹𝗲 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀:
 
-⭐ [Netflix Dataset Analysis - EDA](https://github.com/Ranjan234/netflix-eda) | Apr 2026  
+⭐ [Netflix Dataset Analysis - EDA](https://github.com/Ranjan234/Netflix-Data-Analysis) | Apr 2026  
 
   **Exploratory Data Analysis of Netflix Content Library**
   
