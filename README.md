@@ -177,14 +177,12 @@ Let's Connect!
 
 <!-- AnalystBuilder -->
 - [![AnalystBuilder](https://img.shields.io/badge/AnalystBuilder-0057B8?style=for-the-badge)](https://www.analystbuilder.com/u/Soumya)
-<!-- Maven Analytics -->
-- [![Maven Analytics](https://img.shields.io/badge/Maven%20Analytics-Profile-0A66C2?style=for-the-badge&logo=tableau&logoColor=white)](https://app.mavenanalytics.io/portfolio)
-  
-- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_USERNAME)
-
-- [![Maven Analytics](https://img.shields.io/badge/Maven_Analytics-FF6B35?style=for-the-badge&logo=data:image/svg,&logoColor=white)](https://www.mavenanalytics.io/profile/YOUR_USERNAME)
+<!-- Maven Analytics -->  
+- [![Maven Analytics](https://img.shields.io/badge/Maven_Analytics-FF6B35?style=for-the-badge&logo=data:image/svg,&logoColor=white)](https://app.mavenanalytics.io/portfolio)
 <!-- LeetCode -->
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
+ <!-- Kaggel -->  
+ [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/soumya32)
 <!-- InterviewBit -->
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit%20Score-blue?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/soumya-ranjan-sahoo_575/)
 <!-- Hackerrank -->
