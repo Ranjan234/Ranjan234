@@ -182,7 +182,7 @@ Let's Connect!
 <!-- LeetCode -->
 - [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/N8TvX6JJFa/)
  <!-- Kaggel -->  
- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/soumya32)
+- [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/soumya32)
 <!-- InterviewBit -->
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit%20Score-blue?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/soumya-ranjan-sahoo_575/)
 <!-- Hackerrank -->
