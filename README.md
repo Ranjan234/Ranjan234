@@ -185,8 +185,11 @@ Let's Connect!
 - [![InterviewBit](https://img.shields.io/badge/InterviewBit%20Score-blue?style=for-the-badge&logo=interviewbit&logoColor=white)](https://www.interviewbit.com/profile/soumya-ranjan-sahoo_575/)
 <!-- Hackerrank -->
 - [![HackerRank Score](https://img.shields.io/badge/HackerRank%20Score-brightgreen?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/soumyaranjansa35)
+<!-- Tableau Public -->
+- [![Tableau Public](https://img.shields.io/badge/Tableau_Public-E8762C?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/soumya.sahoo6315/vizzes)
+<!-- Power Portfolio -->
+- [![Power BI](https://img.shields.io/badge/Power_BI_Portfolio-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://app.fabric.microsoft.com/home?experience=power-bi&clientSideAuth=0)
 
-  
 <h4 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
   🚀I'm always open to collaborating on interesting projects and learning new things✨. Let's connect and create something amazing together!
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3J6eTRkN2ppdjByODRpeHRqeWFwaWFpa3Bxa3owZWUwY2hocnMwZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jsqEpvJ5Qb6Ml6zM0k/giphy.gif" width="30" height="30" style="vertical-align:middle;"/>
