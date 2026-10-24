@@ -1,8 +1,5 @@
-<h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
-  Hello, I'm Soumya Ranjan Sahoo!
-  <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" style="vertical-align:middle;"/>
-</h1>
 
+  Hello, I'm Soumya Ranjan Sahoo!👋
 
 - Welcome to my GitHub profile! <span style="font-size: 48px; vertical-align: middle;">👀</span>
 - Enthusiastic and self-motivated entry-level Data Analyst with strong skills in Python, SQL, Excel, Power BI and Tableau. Currently pursuing a 
@@ -68,20 +65,19 @@ Projects
  - The dashboard lets stakeholders slice by Location, Treatment Type, and Year to drill into revenue drivers, staffing costs, and appointment trends.
  - Built an interactive dashboard analyzing revenue, profitability, and operational efficiency across 5 clinic locations (NY, LA, Miami, Chicago, Houston).
   
-➡️ [Drugs SideEffect And MedicalCondition](https://github.com/Ranjan234/Drugs_SideEffect_And_MedicalCondition) | Mar 2025
+➡️ [Amazon Sales Analysis Dashboard](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_02) | Sep 2026
 
-  <img src="https://github.com/Ranjan234/Drugs_SideEffect_And_MedicalCondition/blob/main/Image%20/Correlation%20Matrix.png"  width="600" height="300" style="vertical-align:middle;"/>
+  <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_02/Dashboard_Page.png"  width="600" height="300" style="vertical-align:middle;"/>
 
- - This project is an exploratory data analysis (EDA) on drugs, their side effects, and the medical conditions they treat.
- - The goal is to analyze the relationships between drugs, their side effects, and the medical conditions they are used to treat, as well as to explore the ratings and 
-    reviews of these drugs.
+ - An interactive Power BI dashboard built to analyze Amazon product sales performance, tracking revenue, product movement, and customer reviews across categories.
+ - The business needed a centralized dashboard to monitor sales performance and customer feedback throughout the year, enabling data-driven decisions on top-performing products and categories.
   
-➡️ [EV Sales Analysis in India](https://github.com/Ranjan234/EV-Sales-Analysis-in-India) | Mar 2025   
+➡️ [Customer Sales Dashboard](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_05) | Oct 2026
 
- <img src="https://github.com/Ranjan234/EV-Sales-Analysis-in-India/blob/main/Images/Yearly%20Analysis%20of%20EV%20Sales%20in%20India.png"  width="600" height="300" style="vertical-align:middle;"/>
+ <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_05/Files/Overview.png"  width="600" height="300" style="vertical-align:middle;"/>
 
- - Analyzed electric vehicle sales data across Indian states using Python, Pandas, and Seaborn. 
- - Conducted exploratory data analysis to identify top-selling vehicle types and state-wise adoption rates.
+ - The Customer Sales Dashboard is an interactive Power BI project designed to analyze sales performance, customer behavior, product categories, seasonal trends, and customer ratings.
+ - The dashboard helps users understand key business metrics and identify opportunities to improve sales performance and customer satisfaction through data-driven insights.
   
 ➡️ [Coffee Shop Sales Project](https://github.com/Ranjan234/CofeeShopsales) | Dec 2024
 
