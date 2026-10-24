@@ -84,13 +84,11 @@ Projects
 
  - An interactive Power BI dashboard that tracks retail inventory, sales performance, and stock health across stores, categories, and regions.
 
-➡️ [Restaurant_Orders_Analysis](https://github.com/Ranjan234/Restaurant_Orders_Analysis)  | Jan 2025   
+➡️ [Chocolate Sales Dashboard](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_01)  | July 2026   
 
-   <img src="https://github.com/Ranjan234/Restaurant_Orders_Analysis/blob/main/Screenshot%202025-01-23%20111046.png"  width="550" height="250" style="vertical-align:middle;"/>
+   <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_01/Screenshot%202026-07-31%20090014.png"  width="550" height="250" style="vertical-align:middle;"/>
    
- - This project is a guided analysis of restaurant orders data, provided by Maven Analytics.
- - The dataset includes a quarter's worth of orders from a fictitious restaurant serving international cuisine.
- - Each order contains the date and time of the order, the items ordered, and additional details on the type, name, and price of the items.
+ - Cholate sales analysis using Power BI.
    
  ➡️ [PhonePe-Data_Analysis]() | Jun 2025
 
@@ -98,13 +96,6 @@ Projects
 
   - PhonePe Data Analysis Using Power BI.
   - The line chart shows a sharp, consistent rise in transaction amounts from 2018 to 2022, underlining the rapid growth of digital payments.
-  
- ➡️ [Bank-Customer-Data-Prep](https://github.com/Ranjan234/Bank-Customer-Data-Prep_) | July 2025
-  
-   <img src="https://github.com/Ranjan234/Bank-Customer-Data-Prep/blob/main/download%20(6).png"  width="550" height="250" style="vertical-align:middle;"/>
-   
- - Clean and explore bank customer data to prepare it for machine learning models
- - You've been asked to prepare and explore a set of customer data that will be used for two machine learning projects: churn prediction & customer segmentation.
   
    
  <h1 style="font-size:2.2em; font-weight:bold; display:flex; align-items:center; gap:0.5em;">
