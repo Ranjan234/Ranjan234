@@ -78,14 +78,12 @@ Projects
  - The Customer Sales Dashboard is an interactive Power BI project designed to analyze sales performance, customer behavior, product categories, seasonal trends, and customer ratings.
  - The dashboard helps users understand key business metrics and identify opportunities to improve sales performance and customer satisfaction through data-driven insights.
   
-➡️ [Coffee Shop Sales Project](https://github.com/Ranjan234/CofeeShopsales) | Dec 2024
+➡️ [Inventory Dashboard](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_03) | Oct 2026
 
-  <img src="https://github.com/Ranjan234/CofeeShopsales/blob/main/Screenshot%202024-12-26%20093142.png"  width="600" height="300" style="vertical-align:middle;"/>
+  <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_03/Data/Image/Dashboard%20Page1.png"  width="600" height="300" style="vertical-align:middle;"/>
 
- - A detailed sales analysis dashboard for my coffee shop created using Excel.
- - Transaction records for Maven Roasters, a fictitious coffee shop operating out of three NYC locations. Dataset includes the transaction date, timestamp and location, 
-   along with product-level details.
-  
+ - An interactive Power BI dashboard that tracks retail inventory, sales performance, and stock health across stores, categories, and regions.
+
 ➡️ [Restaurant_Orders_Analysis](https://github.com/Ranjan234/Restaurant_Orders_Analysis)  | Jan 2025   
 
    <img src="https://github.com/Ranjan234/Restaurant_Orders_Analysis/blob/main/Screenshot%202025-01-23%20111046.png"  width="550" height="250" style="vertical-align:middle;"/>
