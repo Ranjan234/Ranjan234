@@ -61,12 +61,12 @@ Projects
 
 
 
-➡️ [Wave Shoes Sales Store](https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Wave_Shoes_Store_Sales_Dashboard%20(1).pdf) | Dec 2024  
+➡️ [Clinical Perfromance Analysis](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_04) | Sep 2026
 
-  <img src="https://github.com/Ranjan234/Google_Sheet_Dashboard/blob/main/Screenshot%202025-01-23%20161227.png"  width="600" height="300" style="vertical-align:middle;"/>
+  <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_04/Datasets/Image/Screenshot%202026-09-11%20203013.png"  width="600" height="300" style="vertical-align:middle;"/>
   
- - This project is a Google Sheet Dashboard that allows users to visualize and analyze data efficiently.
- - The dashboard leverages Google Sheets capabilities to provide real-time data updates and interactive charts.
+ - The dashboard lets stakeholders slice by Location, Treatment Type, and Year to drill into revenue drivers, staffing costs, and appointment trends.
+ - Built an interactive dashboard analyzing revenue, profitability, and operational efficiency across 5 clinic locations (NY, LA, Miami, Chicago, Houston).
   
 ➡️ [Drugs SideEffect And MedicalCondition](https://github.com/Ranjan234/Drugs_SideEffect_And_MedicalCondition) | Mar 2025
 
