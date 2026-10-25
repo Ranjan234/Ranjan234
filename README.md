@@ -84,11 +84,11 @@ Projects
 
  - An interactive Power BI dashboard that tracks retail inventory, sales performance, and stock health across stores, categories, and regions.
 
-➡️ [Chocolate Sales Dashboard](https://github.com/Ranjan234/Power-BI-Projects/tree/main/Project_01)  | July 2026   
+➡️ [Coffee Sales Dashboard](https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_06/Files/Data/readme.MD)  | July 2026   
 
-   <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_01/Screenshot%202026-07-31%20090014.png"  width="550" height="250" style="vertical-align:middle;"/>
+   <img src="https://github.com/Ranjan234/Power-BI-Projects/blob/main/Project_06/Files/Data/Screenshot%202026-10-25%20144757.png"  width="550" height="250" style="vertical-align:middle;"/>
    
- - Cholate sales analysis using Power BI.
+ - An interactive Power BI dashboard that shows when customers buy, what they buy and how they pay in a coffee shop.
    
  ➡️ [PhonePe-Data_Analysis]() | Jun 2025
 
